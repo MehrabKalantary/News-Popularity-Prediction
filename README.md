@@ -18,10 +18,24 @@
 ### Data preprocessing and feature selection
 * Missing data values
 * Categorical to numerical
+    * OHE
 * Outlier detection
     * K-sigma method
 * Feature scaling
+    * Standard scaling
+    * Min-max normalization
+    * Robust scaling
+* Feature selection
+    * Forward selection
+    * Backward selection
+    * PCA
 
 ### Modeling (Regression)
+* Linear regression
+* Polynomial regression
+* Ridge regression
+* Lasso regression
+
 
 ### Evaluation
+* R2 score

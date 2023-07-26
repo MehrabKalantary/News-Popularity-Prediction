@@ -28,6 +28,7 @@
 * Feature selection
     * Forward selection
     * Backward selection
+* Feature extraction
     * PCA
 
 ### Modeling (Regression)
